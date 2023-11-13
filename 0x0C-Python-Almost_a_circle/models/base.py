@@ -2,7 +2,6 @@
 """writing the base class"""
 import json
 import csv
-import turtle
 
 
 class Base:
